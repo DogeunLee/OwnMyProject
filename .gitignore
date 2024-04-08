@@ -14,10 +14,9 @@ OwnMyProject/.settings/
 MyNewProject/OwnMyProject/src/target
 MyNewProject/OwnMyProject/src/test
 OwnMyProject/vscode/
-OwnMyProject/.classpath
-OwnMyProject/.project
-OwnMyProject/.metadata/
-OwnMyProject/Servers
+OwnMyProject/.classpath/
+OwnMyProject/.project/
+OwnMyProject/Servers/
 
 apikey.js
 key.properties
