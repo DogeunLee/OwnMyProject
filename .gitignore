@@ -9,15 +9,15 @@ pom.properties
 MANIFEST.MF
 Servers
 
-MyNewProject/.metadata/
-MyNewProject/.settings/
+OwnMyProject/.metadata/
+OwnMyProject/.settings/
 MyNewProject/OwnMyProject/src/target
 MyNewProject/OwnMyProject/src/test
-MyNewProject/vscode/
-MyNewProject/.classpath
-MyNewProject/.project
-MyNewProject/.metadata/
-MyNewProject/Servers
+OwnMyProject/vscode/
+OwnMyProject/.classpath
+OwnMyProject/.project
+OwnMyProject/.metadata/
+OwnMyProject/Servers
 
 apikey.js
 key.properties
