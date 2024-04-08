@@ -1,5 +1,5 @@
 /target/
-.classpath
+*.classpath
 
 /META-INF/
 
